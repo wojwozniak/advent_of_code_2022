@@ -3,6 +3,6 @@
 
 ## List of tasks
 Day 1: #1 and #2 solved with C++
-Work in progress...
+Day 2 and up: Work in progress...
 
 

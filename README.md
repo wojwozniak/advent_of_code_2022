@@ -3,7 +3,7 @@
 
 ## List of tasks
 Day 1: #1 and #2 solved         
-Day: #1 and #2 solved   
+Day 2: #1 and #2 solved   
 Day 3 and up: Work in progress...
 
 

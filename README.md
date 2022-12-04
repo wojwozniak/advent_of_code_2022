@@ -5,6 +5,7 @@
 Day 1: #1 and #2 solved         
 Day 2: #1 and #2 solved     
 Day 3: #1 and #2 solved             
-Day 4 and up: Work in progress...
+Day 4: #1 and #2 solved             
+Day 5 and up: Work in progress...
 
 
